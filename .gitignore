@@ -24,14 +24,3 @@ dist-ssr
 
 27061998
 27061998.pub
-
-src
-public
-
-index.html
-index.scss
-
-package-lock.json
-package.json
-
-vite-config.js
